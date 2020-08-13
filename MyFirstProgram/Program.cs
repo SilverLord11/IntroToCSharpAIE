@@ -22,3 +22,6 @@ namespace MyFirstProgram
 // 3. Commit those files to the Git repository
 // 4. Add a remote
 // 5. Push to the remote
+//git add
+//git commit -m "message"
+//git push
