@@ -2,17 +2,16 @@
 
 namespace ClassExercise
 {
-    class vector2 
+    class Employee
     {
-        public float x;
-        public float y;
+        
     
-    }
-    class Program
-    {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            string firstName = "Elvis";
+            string lastName = "Presly";
+            float yearsOfExperience = 4; 
+            Console.WriteLine("Hi! I'm " + firstName + " " + lastName + " and I have " + yearsOfExperience + " years of experience.");
         }
     }
 }
